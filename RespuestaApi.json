@@ -1,0 +1,12 @@
+{
+  "result": "success",
+  "documentation": "https://www.exchangerate-api.com/docs",
+  "terms_of_use": "https://www.exchangerate-api.com/terms",
+  "time_last_update_unix": 1755552001,
+  "time_last_update_utc": "Mon, 18 Aug 2025 00:00:01 +0000",
+  "time_next_update_unix": 1755638401,
+  "time_next_update_utc": "Tue, 19 Aug 2025 00:00:01 +0000",
+  "base_code": "MXN",
+  "target_code": "USD",
+  "conversion_rate": 0.05142
+}
