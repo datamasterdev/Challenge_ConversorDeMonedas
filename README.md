@@ -4,41 +4,42 @@ Este proyecto es una aplicación de consola desarrollada en Java 17 que permite 
 
 ## 🚀 Funcionalidades
 
-Conversión de monedas en tiempo real.
+- Conversión de monedas en tiempo real.
 
-Consulta automática de tasas de cambio mediante una API confiable.
+- Consulta automática de tasas de cambio mediante una API confiable.
 
-Interfaz simple basada en consola para una experiencia directa y práctica.
+- Interfaz simple basada en consola para una experiencia directa y práctica.
 
-Código modular y estructurado que facilita el mantenimiento y futuras mejoras.
+- Código modular y estructurado que facilita el mantenimiento y futuras mejoras.
 
 ## 🛠️ Tecnologías utilizadas
 
-Java 17
+- Java 17
 
-API de tasas de cambio: ExchangeRate API
+- API de tasas de cambio: ExchangeRate API
 
-JSON para el manejo de datos de la API
+- JSON para el manejo de datos de la API
 
-IDE recomendado: IntelliJ IDEA o Eclipse
+- IDE recomendado: IntelliJ IDEA o Eclipse
 
 ## 🖥️ Modo de uso
 
-Ejecuta el programa desde tu IDE o terminal.
+- Ejecuta el programa desde tu IDE o terminal.
 
-Se mostrará un menú interactivo en la consola.
+- Se mostrará un menú interactivo en la consola.
 
-Selecciona la moneda de origen y la moneda de destino entre las opciones disponibles.
+- Selecciona la moneda de origen y la moneda de destino entre las opciones disponibles.
 
-Ingresa el monto que deseas convertir.
+- Ingresa el monto que deseas convertir.
 
-El sistema consultará automáticamente la API y mostrará el resultado con el tipo de cambio actualizado.
+- El sistema consultará automáticamente la API y mostrará el resultado con el tipo de cambio actualizado.
+
 
 Puedes realizar múltiples conversiones o salir del programa en cualquier momento.
-
+- 
 ## 📟 Ejemplo de uso en consola
 
-Conversor de Monedas
+**Conversor de Monedas**
 
 Seleccione la moneda de origen:
 1) USD - Dólar Estadounidense
