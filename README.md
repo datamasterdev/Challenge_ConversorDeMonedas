@@ -67,4 +67,5 @@ Resultado: 100 USD = 385.50 PEN (tipo de cambio actualizado)
 ## 👤 Autor
 
 Nombre: Jesus Gil Vargas
-GitHub: datamaster
+
+<a href="https://github.com/datamasterdev" target="_blank">GitHub: datamaster </a>
